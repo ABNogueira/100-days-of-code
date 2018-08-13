@@ -19,12 +19,26 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: August 12, Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp about Functional Programming.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I'm enjoying the topic about Functional Programming,
+due to realization that a global notion of a good practice, 
+can lead to good coding.
+
+
+### Day 2: August 13, Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp, finnished Functional Programming and started 
+Intermediate Algorithm Scripting.
+
+**Thoughts** It's a good feeling when we are able to finish
+the exercises.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Use the every Method to Check that Every Element in an Array Meets a Criteria](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-every-method-to-check-that-every-element-in-an-array-meets-a-criteria)
+1. [Use the some Method to Check that Any Elements in an Array Meet a Criteria](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-some-method-to-check-that-any-elements-in-an-array-meet-a-criteria)
+1. [Introduction to Currying and Partial Application](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/introduction-to-currying-and-partial-application)
+1. [Sum All Numbers in a Range](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range)
+1. [Diff Two Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays)
