@@ -42,3 +42,15 @@ the exercises.
 1. [Introduction to Currying and Partial Application](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/introduction-to-currying-and-partial-application)
 1. [Sum All Numbers in a Range](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range)
 1. [Diff Two Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays)
+
+### Day 3: August 14, Tuesday
+
+**Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp.
+
+**Thoughts** Learned about `arguments` object (I needed to understand in order to
+successfully finnish the exercise), but strugled with the second exercise (still
+need to finish it).
+
+**Link(s) to work**
+1. [Seek and Destroy] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
+1. [Wherefore Art Thou] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
