@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -17,7 +17,7 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
-
+-->
 
 ### Day 1: August 12, Sunday
 
@@ -30,7 +30,7 @@ can lead to good coding.
 
 ### Day 2: August 13, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp, finnished Functional Programming and started 
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp, finished Functional Programming and started 
 Intermediate Algorithm Scripting.
 
 **Thoughts** It's a good feeling when we are able to finish
@@ -48,7 +48,7 @@ the exercises.
 **Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp.
 
 **Thoughts** Learned about `arguments` object (I needed to understand in order to
-successfully finnish the exercise), but strugled with the second exercise (still
+successfully finnish the exercise), but struggled with the second exercise (still
 need to finish it).
 
 **Link(s) to work**
@@ -67,3 +67,14 @@ on FreeCodeCamp.
 
 **Link(s) to work**
 1. [learning-freecodecamp](https://github.com/abnogueira/learning-freecodecamp/commit/6ae844a1110d77153076019da0e55cf7690ce3b8)
+
+### Day 5: August 16, Friday
+
+**Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp.
+
+**Thoughts** Wasn't able to solve the exercise by myself, had to check the hints,
+and after many attempts I checked on the beginner level solution. I really need
+to be comfortable with the array's methods.
+
+**Link(s) to work**
+1. [Wherefore Art Thou](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
