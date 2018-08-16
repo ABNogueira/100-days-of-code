@@ -54,3 +54,16 @@ need to finish it).
 **Link(s) to work**
 1. [Seek and Destroy] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
 1. [Wherefore Art Thou] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
+
+### Day 4: August 15, Thursday
+
+**Today's Progress**: I decided to create a GitHub repository for some 
+exercises of FreeCodeCamp, so I took some time creating the structure, while
+learning more about git commands.
+
+**Thoughts** I decided to create the repository in a Markdown fashion way, to allow
+my thoughts, and what I need to improve and compare with solutions found 
+on FreeCodeCamp.
+
+**Link(s) to work**
+1. [learning-freecodecamp](https://github.com/abnogueira/learning-freecodecamp/commit/6ae844a1110d77153076019da0e55cf7690ce3b8)
