@@ -55,7 +55,7 @@ need to finish it).
 1. [Seek and Destroy] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
 1. [Wherefore Art Thou] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
 
-### Day 4: August 15, Thursday
+### Day 4: August 15, Wednesday
 
 **Today's Progress**: I decided to create a GitHub repository for some 
 exercises of FreeCodeCamp, so I took some time creating the structure, while
@@ -68,7 +68,7 @@ on FreeCodeCamp.
 **Link(s) to work**
 1. [learning-freecodecamp](https://github.com/abnogueira/learning-freecodecamp/commit/6ae844a1110d77153076019da0e55cf7690ce3b8)
 
-### Day 5: August 16, Friday
+### Day 5: August 16, Thursday
 
 **Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp.
 
@@ -78,3 +78,14 @@ to be comfortable with the array's methods.
 
 **Link(s) to work**
 1. [Wherefore Art Thou](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
+
+### Day 6: August 17, Friday
+
+**Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp.
+
+**Thoughts** Was necessary some research to find which methods to use with 
+strings and arrays.
+
+**Link(s) to work**
+1. [Spinal Tap Case](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
+1. [Pig Latin](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin)
