@@ -19,7 +19,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
-### Day 1: August 12, Sunday
+### Day 1: August 12, 2018
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp about Functional Programming.
 
@@ -28,7 +28,7 @@ due to realization that a global notion of a good practice,
 can lead to good coding.
 
 
-### Day 2: August 13, Monday
+### Day 2: August 13, 2018
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp, finished Functional Programming and started 
 Intermediate Algorithm Scripting.
@@ -43,7 +43,7 @@ the exercises.
 1. [Sum All Numbers in a Range](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range)
 1. [Diff Two Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays)
 
-### Day 3: August 14, Tuesday
+### Day 3: August 14, 2018
 
 **Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp.
 
@@ -55,7 +55,7 @@ need to finish it).
 1. [Seek and Destroy] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
 1. [Wherefore Art Thou] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
 
-### Day 4: August 15, Wednesday
+### Day 4: August 15, 2018
 
 **Today's Progress**: I decided to create a GitHub repository for some 
 exercises of FreeCodeCamp, so I took some time creating the structure, while
@@ -68,7 +68,7 @@ on FreeCodeCamp.
 **Link(s) to work**
 1. [learning-freecodecamp](https://github.com/abnogueira/learning-freecodecamp/commit/6ae844a1110d77153076019da0e55cf7690ce3b8)
 
-### Day 5: August 16, Thursday
+### Day 5: August 16, 2018
 
 **Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp.
 
@@ -79,7 +79,7 @@ to be comfortable with the array's methods.
 **Link(s) to work**
 1. [Wherefore Art Thou](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
 
-### Day 6: August 17, Friday
+### Day 6: August 17, 2018
 
 **Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp.
 
@@ -89,3 +89,14 @@ strings and arrays.
 **Link(s) to work**
 1. [Spinal Tap Case](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
 1. [Pig Latin](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin)
+
+### Day 7: August 18, 2018
+
+**Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp
+for Javascript Certificate.
+
+**Thoughts** Finally I thought of using a function (inside another function) to turn my code
+more readable.
+
+**Link(s) to work**
+1. [Search and Replace](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace)
