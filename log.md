@@ -100,3 +100,14 @@ more readable.
 
 **Link(s) to work**
 1. [Search and Replace](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace)
+
+### Day 8: August 19, 2018
+
+**Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp
+for Javascript Certificate.
+
+**Thoughts** Need to learn more about string methods.
+
+**Link(s) to work**
+1. [DNA Pairing](https://github.com/abnogueira/learning-freecodecamp/commit/052737ce039bebf4e3f11480535b2bdcf79c3f07)
+2. [Missing Letters] (https://github.com/abnogueira/learning-freecodecamp/commit/0b3fe028aa420e5a02d24d3f53fef4624065c2c5)
