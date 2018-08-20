@@ -111,3 +111,16 @@ for Javascript Certificate.
 **Link(s) to work**
 1. [DNA Pairing](https://github.com/abnogueira/learning-freecodecamp/commit/052737ce039bebf4e3f11480535b2bdcf79c3f07)
 2. [Missing Letters] (https://github.com/abnogueira/learning-freecodecamp/commit/0b3fe028aa420e5a02d24d3f53fef4624065c2c5)
+
+
+### Day 9: August 20, 2018
+
+**Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises on FreeCodeCamp
+for Javascript Certificate.
+
+**Thoughts** Created a complicated answer by keeping with arrays all the
+info necessary, when you could keep only the necessary numbers
+in variables.
+
+**Link(s) to work**
+1. [Sum All Odd Fibonacci](https://github.com/abnogueira/learning-freecodecamp/commit/d95d30eec205a31939df9af086ad2a167d70cc00)
