@@ -124,3 +124,17 @@ in variables.
 
 **Link(s) to work**
 1. [Sum All Odd Fibonacci](https://github.com/abnogueira/learning-freecodecamp/commit/d95d30eec205a31939df9af086ad2a167d70cc00)
+
+### Day 10: August 21, 2018
+
+**Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises (Smallest Common Multiple) 
+on FreeCodeCamp
+for Javascript Certificate.
+
+**Thoughts** Couldn't finish the exercise, done the lcm part,
+but now I have to think how can I find for multiple numbers, and
+not only two numbers. Maybe I can use a map object to count,
+each multiple.
+
+**Link(s) to work**
+1. [Smallest Common Multiple](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple)
