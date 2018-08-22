@@ -138,3 +138,15 @@ each multiple.
 
 **Link(s) to work**
 1. [Smallest Common Multiple](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple)
+
+### Day 11: August 22, 2018
+
+**Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises (Smallest Common Multiple) 
+on FreeCodeCamp
+for Javascript Certificate.
+
+**Thoughts** Couldn't finish the exercise, tried a different approach instead of calculating the multiples, simulating how
+it's done by hand.
+
+**Link(s) to work**
+1. [Smallest Common Multiple](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple)
