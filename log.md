@@ -150,3 +150,15 @@ it's done by hand.
 
 **Link(s) to work**
 1. [Smallest Common Multiple](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple)
+
+### Day 12: August 23, 2018
+
+**Today's Progress**: I've continued doing Intermediate Algorithm Scripting exercises (Arguments Optional) 
+on FreeCodeCamp
+for Javascript Certificate.
+
+**Thoughts** I have to double check my test cases, one mistake
+ can misguide me and make loose precious time.
+
+**Link(s) to work**
+1. [Arguments Optional](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional)
